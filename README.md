@@ -1,17 +1,15 @@
 # Greetings!
-I'm `Axoloteera`(a.k.a. `Gtd232`) -- Welcome to my space!   
+I'm `Gtd232`(a.k.a. `Axoloteera`) -- Welcome to my space!   
 
 Contact me:
+ - E-mail: [hi@gtd232.dev](mailto:hi@gtd232.dev)  
  - E-mail: [axoloteera@outlook.com](mailto:axoloteera@outlook.com)  
- - AxolotlPool: [Axoloteera(UID:3)](https://axopl.com/user/3)
- - Telegram: [Axoloteera](https://t.me/Axoloteera)
+ - AxolotlPool: [Gtd232(UID:3)](https://axopl.com/user/3)
 
 
 Feel free to ping me anytime, I'm happy to meet you!
 
 
-GPG Key: [`B695 E815 56EE 6659`](https://github.com/Axoloteera.gpg)  
-Website: <https://axolotlpower.com>  
 <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gtd232/Gtd232/main/github-metrics.svg"><br>
