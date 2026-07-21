@@ -15,4 +15,4 @@ Feel free to ping me anytime, I'm happy to meet you!
   <img src="https://raw.githubusercontent.com/Gtd232/Gtd232/main/github-metrics.svg"><br>
 </div>
 -->
-[Avatar Source](https://x.com/max80072/status/1895849259490295894)
+[GPG](https://github.com/Gtd232.gpg) [Avatar Source](https://x.com/max80072/status/1895849259490295894)
